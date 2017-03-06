@@ -1,0 +1,2 @@
+# sntpjc
+SNTP Java Client
