@@ -1,7 +1,5 @@
 # SNTPJC
-### SNTP Java Client (written in 2009)
-
-Untouched old code moved here from Google code.
+### SNTP Java Client
 
 Build:
 ```bash
