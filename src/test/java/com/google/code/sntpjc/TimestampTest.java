@@ -1,10 +1,8 @@
 package com.google.code.sntpjc;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import org.junit.Test;
-
-import com.google.code.sntpjc.Timestamp;
+import org.junit.jupiter.api.Test;
 
 /**
  * Timestamp tests

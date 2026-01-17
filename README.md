@@ -8,7 +8,7 @@ mvn install
 
 Run:
 ```bash
-java -jar target/sntpjc-0.2.1.jar time.google.com
+java -jar target/sntpjc-0.3.0.jar time.google.com
 ```
 Example output:
 ```
